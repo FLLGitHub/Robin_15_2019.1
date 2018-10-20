@@ -1,1 +1,0 @@
-# Wasp_Recognition_1.1
